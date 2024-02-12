@@ -1,5 +1,15 @@
 {
+  "name": "26b-fizzbuzz",
+  "version": "1.0.0",
+  "description": "Exercise",
+  "scripts": {
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
+    "jest": "^29.7.0",
     "parcel": "^2.11.0"
   }
 }
