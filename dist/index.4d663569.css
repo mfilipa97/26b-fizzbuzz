@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto Mono, monospace;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.header-container {
+  text-align: center;
+  height: 70px;
+  position: relative;
+}
+
+.left, .right {
+  max-width: 70px;
+  height: 100%;
+  position: absolute;
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  opacity: .5;
+  right: 0;
+}
+
+.header-text {
+  z-index: 2;
+}
+
+h1 {
+  text-align: center;
+}
+
+.outer-box {
+  background-color: #eeeaea;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: 50px auto 20px;
+  padding: 20px;
+}
+
+.input-container {
+  justify-content: space-between;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.input-box {
+  margin-bottom: 10px;
+}
+
+.input-box label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  display: block;
+}
+
+.input-box input {
+  box-sizing: border-box;
+  border: 1px solid #f29f07;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+}
+
+.input-box input:hover {
+  border: 1px solid #a64f03;
+}
+
+.center {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.generate-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #f29f07;
+  border: none;
+  border-radius: 5px;
+  width: 20%;
+  margin-top: 10px;
+  padding: 8px;
+}
+
+.generate-button:hover {
+  background-color: #a64f03;
+}
+
+.output-box {
+  background-color: #fff;
+  border: 2px solid #f29f07;
+  border-radius: 10px;
+  height: 70px;
+  padding: 5px;
+  font-size: 12px;
+  overflow: auto;
+}
+
+.output-placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+.statistics {
+  justify-content: center;
+  margin-top: 20px;
+  display: flex;
+}
+
+.stat-container {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.stat-heading {
+  text-align: left;
+  margin-left: 46px;
+}
+
+.stat-box {
+  color: #fff;
+  text-align: center;
+  background-color: #f29f07;
+  border-radius: 5px;
+  justify-content: space-around;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  line-height: 150px;
+}
+
+@media screen and (width <= 768px) {
+  .container {
+    max-width: 90%;
+  }
+
+  .input-container {
+    flex-direction: column;
+    display: flex;
+  }
+
+  .input-box {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .generate-button {
+    width: 100%;
+  }
+
+  .statistics {
+    flex-direction: column;
+  }
+
+  .stat-box {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .stat-heading {
+    text-align: left;
+    margin-left: auto;
+  }
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
