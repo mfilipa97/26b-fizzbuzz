@@ -23,7 +23,7 @@
 97C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\.bin\import-local-fixture133519559208389231 0
 102C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\svgo\plugins\removeComments.js133519550261533511 0
 102C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@parcel\core\src\assetUtils.js133519550391709186 0
-63C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist133522178007160357 1
+63C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist133522197470307575 1
 126C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\pure-rand\lib\esm\types\distribution\Distribution.d.ts133519559190579795 0
 108C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\v8-to-istanbul\lib\v8-to-istanbul.js133519559189723695 0
 108C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\traverse\node_modules\globals133519559186782387 1
@@ -61,7 +61,7 @@
 95C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\string-width\index.d.ts133519550210432357 0
 96C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\node-addon-api\README.md133519550225004978 0
 117C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@parcel\optimizer-svgo\node_modules\svgo\dist133519550213691814 1
-69C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\index.html133522195510676641 0
+69C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\index.html133522197373921852 0
 96C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@sinclair\typebox\system133519559190681962 1
 80C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\posthtml133519550267686860 1
 96C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\jest-worker\node_modules133519559179820294 1
@@ -1480,7 +1480,7 @@
 92C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\.bin\detect-libc.ps1133519551668716931 0
 133C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133519550399233917 0
 97C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\msgpackr\rollup.config.js133519550292547698 0
-92C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\26b-fizzbuzz.3464ddca.js.map133519552606953379 0
+92C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\26b-fizzbuzz.3464ddca.js.map133522197470142611 0
 101C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\htmlnano\lib\presets\safe.cjs133519550286650990 0
 97C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\test-exclude\package.json133519559186606988 0
 93C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\strip-ansi\index.d.ts133519550210419319 0
@@ -6541,7 +6541,7 @@
 124C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\css-anchor-positioning.js133519550233566875 0
 115C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\css-animation.js133519550233580399 0
 108C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@jest\core\build\FailedTestsCache.js133519559194231443 0
-122C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\bee-the-quilted-turtle-party-fit-for-queen-12.0e01256d.png133522178006023656 0
+122C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\bee-the-quilted-turtle-party-fit-for-queen-12.0e01256d.png133522197470031402 0
 114C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\css-any-link.js133519550233585439 0
 116C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\css-appearance.js133519550233595511 0
 114C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\css-autofill.js133519550233605548 0
@@ -6769,7 +6769,7 @@
 108C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@types\istanbul-lib-coverage\LICENSE133519559184401388 0
 127C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js133519550271966052 0
 126C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133519550271977140 0
-98C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\pg5hwtwaye9kmeoq7cb2.d6c1a913.webp133522178005992592 0
+98C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\pg5hwtwaye9kmeoq7cb2.d6c1a913.webp133522197469997257 0
 131C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js133519550271987178 0
 119C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\code-frame\node_modules\has-flag\license133519550210043408 0
 116C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\node\parentheses.js.map133519559190523750 0
@@ -9192,9 +9192,9 @@
 101C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\package.json133519559190778380 0
 102C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\buffer.js133519559185574158 0
 103C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\generators133519559190243274 1
-81C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.816e7b21.js133522178006409442 0
+81C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.816e7b21.js133522197470097770 0
 101C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\index.js133519559190307415 0
-85C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.816e7b21.js.map133522178006448780 0
+85C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.816e7b21.js.map133522197470132190 0
 105C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\index.js.map133519559190363407 0
 97C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\node133519559190579795 1
 103C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\@babel\generator\lib\printer.js133519559190646429 0
@@ -9392,12 +9392,12 @@
 99C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\.bin\update-browserslist-db133519551668727187 0
 103C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\.bin\update-browserslist-db.cmd133519551668727187 0
 103C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\node_modules\.bin\update-browserslist-db.ps1133519551668727187 0
-88C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\26b-fizzbuzz.3464ddca.js133519552616871280 0
+88C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\26b-fizzbuzz.3464ddca.js133522197470097770 0
 88C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\26b-fizzbuzz.59712999.js133522178006419446 0
 92C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\26b-fizzbuzz.59712999.js.map133522178006448780 0
 82C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.1303bb05.css133522122940080008 0
 86C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.1303bb05.css.map133522122940115356 0
-82C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.4d663569.css133522178006908364 0
-86C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.4d663569.css.map133522178006942857 0
+82C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.4d663569.css133522197470051507 0
+86C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.4d663569.css.map133522197470132190 0
 85C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.672d4772.js.map133519552607084959 0
-74C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.html133522178007147352 0
+74C:\Users\marri\Documents\Codigng\26B Exercise\26b-fizzbuzz\dist\index.html133522197470292543 0
