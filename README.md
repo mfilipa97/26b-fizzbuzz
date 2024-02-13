@@ -59,12 +59,12 @@ git clone https://github.com/mfilipa97/26b-fizzbuzz.git
 npm install
 ```
 ### Install separated
-Ensure that the [Jest](https://jestjs.io/docs/getting-started) is installed. You can install it using:
+Ensure that [Jest](https://jestjs.io/docs/getting-started) is installed. You can install it using:
 
 ```bash
 npm install --save-dev jest
 ```
-Ensure that the [Parcel](https://parceljs.org/getting-started/webapp/) is installed. You can install it using:
+Ensure that [Parcel](https://parceljs.org/getting-started/webapp/) is installed. You can install it using:
 ```bash
 npm install --save-dev parcel
 ```
